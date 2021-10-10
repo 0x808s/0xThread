@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to Social Credit Bot!
+Chinese Communist Party Interactive Bot for Phantom Forces (Roblox)
 
-You can use the [editor on GitHub](https://github.com/0x808s/0xThread/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Info
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Discord: https://discord.gg/T9tcmxgZTs
 
-### Markdown
+This bot is in very early development and lacks features. Currently looking for more devs to make this a Mao Ze Dong Approved bot.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Version 0.02 notes
 
-```markdown
-Syntax highlighted code block
+[+] Changed time to message - less lag.
 
-# Header 1
-## Header 2
-### Header 3
+[+] Added more I Love China messages!! ALL HAIL XI JING PING.
 
-- Bulleted
-- List
+[-] Removed Censored texts - Not approved by Xi jing ping... Roblox shall be sent to the re education camps.
 
-1. Numbered
-2. List
+Whats next:
 
-**Bold** and _Italic_ and `Code` text
+[+] lobby destroyer command - will be manually activated by rage cheating but people in the lobby can control it. (Funny concept)
 
-[Link](url) and ![Image](src)
-```
+[+] more pro china messages ofc.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/0x808s/0xThread/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+LOOKING FOR MORE DEVS! IF YOU WANT TO SACRIFICE YOURSELF FOR THE GREATER GOODS OF THE CCP, ADD NoMoreSocialCredit#5476 Or join the discord!.
